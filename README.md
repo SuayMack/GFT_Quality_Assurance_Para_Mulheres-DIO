@@ -11,7 +11,7 @@ O bootcamp ideal para pessoas que se identificam como mulheres e que estão busc
     
     [Intelligent Diagramming | Lucidchart](https://www.lucidchart.com/)
     
-    ![Fluxograma.png](GFT%20Quality%20Assurance%20Para%20Mulheres%2030a0f6b1e4b04bc98d4536c406e8114b/Fluxograma.png)
+    ![Fluxograma.png](Imagens/Fluxograma.png)
     
 - No fluxo de trabalho do Jira fiz um fluxo para cada time, design, desenvolvimento, teste e deploy, cada um possui dois status, em andamento e done, com regra para que somente eu troque para finalizado.
 
