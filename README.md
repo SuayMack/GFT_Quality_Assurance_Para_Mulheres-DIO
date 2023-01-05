@@ -1,3 +1,7 @@
+<p align="center">
+   <img src="Imagens/iconQADIO.png" width="200" align="center"/>
+</p>
+
 # GFT Quality Assurance Para Mulheres
 
 O bootcamp ideal para pessoas que se identificam como mulheres e que estão buscando uma primeira oportunidade no mercado de TI, migração de carreira ou até mesmo júniores em busca de crescimento profissional e uma maior oportunidade na GFT. Com o objetivo de ensinar e graduar até mesmo quem nunca viu nada sobre o assunto, o bootcamp chegou para ser uma excelente porta de entrada para quem deseja aprender de verdade e construir uma carreira na área de Quality Assurance.
@@ -34,11 +38,11 @@ imagem do meu fluxo de trabalho no JIRA
         
     - Tabela User Stories
         
-        ![Untitled](Imagens/Untitled.png)
+        ![Untitled](Imagens/US-T.png)
         
 - Criação de User Stories no Jira:
     
-    ![Untitled](Imagens/Untitled%201.png)
+    ![Untitled](Imagens/US.png)
     
     - Descrição de User Stories:
         
@@ -48,7 +52,7 @@ imagem do meu fluxo de trabalho no JIRA
         
 - Criação de Roteiro no Jira:
     
-    ![Untitled](Imagens/Untitled%202.png)
+    ![Untitled](Imagens/Roteiro.png)
     
 - Criação de casos de teste com o aplicativo “Zephyr Sacale”.
 
