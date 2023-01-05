@@ -11,11 +11,11 @@ O bootcamp ideal para pessoas que se identificam como mulheres e que estão busc
     
     [Intelligent Diagramming | Lucidchart](https://www.lucidchart.com/)
     
-    ![Fluxograma.png](GFT%20Quality%20Assurance%20Para%20Mulheres%2030a0f6b1e4b04bc98d4536c406e8114b/Fluxograma.png)
+    ![Fluxograma.png](Imagens/Fluxograma.png)
     
 - No fluxo de trabalho do Jira fiz um fluxo para cada time, design, desenvolvimento, teste e deploy, cada um possui dois status, em andamento e done, com regra para que somente eu troque para finalizado.
 
-![imagem do meu fluxo de trabalho no JIRA](GFT%20Quality%20Assurance%20Para%20Mulheres%2030a0f6b1e4b04bc98d4536c406e8114b/fluxo_SwagLabs.png)
+![imagem do meu fluxo de trabalho no JIRA](Imagens/fluxo_SwagLabs.png)
 
 imagem do meu fluxo de trabalho no JIRA
 
@@ -30,45 +30,45 @@ imagem do meu fluxo de trabalho no JIRA
 - User Stories
     - Documento em PDF:
         
-        [User Stories.pdf](GFT%20Quality%20Assurance%20Para%20Mulheres%2030a0f6b1e4b04bc98d4536c406e8114b/User_Stories.pdf)
+        [User Stories.pdf](Imagens/User_Stories.pdf)
         
     - Tabela User Stories
         
-        ![Untitled](GFT%20Quality%20Assurance%20Para%20Mulheres%2030a0f6b1e4b04bc98d4536c406e8114b/Untitled.png)
+        ![Untitled](Imagens/Untitled.png)
         
 - Criação de User Stories no Jira:
     
-    ![Untitled](GFT%20Quality%20Assurance%20Para%20Mulheres%2030a0f6b1e4b04bc98d4536c406e8114b/Untitled%201.png)
+    ![Untitled](Imagens/Untitled%201.png)
     
     - Descrição de User Stories:
         
-        ![Descrição User Stories.png](GFT%20Quality%20Assurance%20Para%20Mulheres%2030a0f6b1e4b04bc98d4536c406e8114b/Descrio_User_Stories.png)
+        ![Descrição User Stories.png](Imagens/Descrio_User_Stories.png)
         
         NA interface do site para a adição de “Esqueceu a senha?” e “Criar conta” foi desenvolvida no FIGMA disponível em [https://www.figma.com/](https://www.figma.com/) .
         
 - Criação de Roteiro no Jira:
     
-    ![Untitled](GFT%20Quality%20Assurance%20Para%20Mulheres%2030a0f6b1e4b04bc98d4536c406e8114b/Untitled%202.png)
+    ![Untitled](Imagens/Untitled%202.png)
     
 - Criação de casos de teste com o aplicativo “Zephyr Sacale”.
 
-![Casos de teste com Zephyr.png](GFT%20Quality%20Assurance%20Para%20Mulheres%2030a0f6b1e4b04bc98d4536c406e8114b/Casos_de_teste_com_Zephyr.png)
+![Casos de teste com Zephyr.png](Imagens/Casos_de_teste_com_Zephyr.png)
 
 - Criação de Ciclos de teste com o aplicativo Zephyr.
 
-![Ciclos de teste com Zephyr.png](GFT%20Quality%20Assurance%20Para%20Mulheres%2030a0f6b1e4b04bc98d4536c406e8114b/Ciclos_de_teste_com_Zephyr.png)
+![Ciclos de teste com Zephyr.png](Imagens/Ciclos_de_teste_com_Zephyr.png)
 
 - Criação de uma issue no ciclo de teste onde ouve falha.
 
-![Issue no Ciclo de teste.png](GFT%20Quality%20Assurance%20Para%20Mulheres%2030a0f6b1e4b04bc98d4536c406e8114b/Issue_no_Ciclo_de_teste.png)
+![Issue no Ciclo de teste.png](Imagens/Issue_no_Ciclo_de_teste.png)
 
 - Criação de um mind-map de uma user story
     
-    ![US 1 - Login.png](GFT%20Quality%20Assurance%20Para%20Mulheres%2030a0f6b1e4b04bc98d4536c406e8114b/US_1_-_Login.png)
+    ![US 1 - Login.png](Imagens/US_1_-_Login.png)
     
     - Anexado mind-map no user story correspondente
     
-    ![Anexado MindMap no User story.png](GFT%20Quality%20Assurance%20Para%20Mulheres%2030a0f6b1e4b04bc98d4536c406e8114b/Anexado_MindMap_no_User_story.png)
+    ![Anexado MindMap no User story.png](Imagens/Anexado_MindMap_no_User_story.png)
     
 - Referências:
 
