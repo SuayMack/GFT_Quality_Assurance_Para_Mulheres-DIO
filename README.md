@@ -34,11 +34,11 @@ imagem do meu fluxo de trabalho no JIRA
         
     - Tabela User Stories
         
-        ![Untitled](Imagens/Untitled.png)
+        ![Untitled](Imagens/US-T.png)
         
 - Criação de User Stories no Jira:
     
-    ![Untitled](Imagens/Untitled%201.png)
+    ![Untitled](Imagens/US.png)
     
     - Descrição de User Stories:
         
@@ -48,7 +48,7 @@ imagem do meu fluxo de trabalho no JIRA
         
 - Criação de Roteiro no Jira:
     
-    ![Untitled](Imagens/Untitled%202.png)
+    ![Untitled](Imagens/Roteiro.png)
     
 - Criação de casos de teste com o aplicativo “Zephyr Sacale”.
 
